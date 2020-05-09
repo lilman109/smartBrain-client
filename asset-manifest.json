@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/facerecognitionapp/static/css/main.bb090dd4.chunk.css",
-    "main.js": "/facerecognitionapp/static/js/main.2c84a0b9.chunk.js",
-    "main.js.map": "/facerecognitionapp/static/js/main.2c84a0b9.chunk.js.map",
-    "runtime-main.js": "/facerecognitionapp/static/js/runtime-main.0421eba0.js",
-    "runtime-main.js.map": "/facerecognitionapp/static/js/runtime-main.0421eba0.js.map",
-    "static/css/2.66b7f74f.chunk.css": "/facerecognitionapp/static/css/2.66b7f74f.chunk.css",
-    "static/js/2.1b18e6ae.chunk.js": "/facerecognitionapp/static/js/2.1b18e6ae.chunk.js",
-    "static/js/2.1b18e6ae.chunk.js.map": "/facerecognitionapp/static/js/2.1b18e6ae.chunk.js.map",
-    "index.html": "/facerecognitionapp/index.html",
-    "precache-manifest.480aaeaa209d01846c47ab1aff4be06c.js": "/facerecognitionapp/precache-manifest.480aaeaa209d01846c47ab1aff4be06c.js",
-    "service-worker.js": "/facerecognitionapp/service-worker.js",
-    "static/css/2.66b7f74f.chunk.css.map": "/facerecognitionapp/static/css/2.66b7f74f.chunk.css.map",
-    "static/css/main.bb090dd4.chunk.css.map": "/facerecognitionapp/static/css/main.bb090dd4.chunk.css.map",
-    "static/js/2.1b18e6ae.chunk.js.LICENSE.txt": "/facerecognitionapp/static/js/2.1b18e6ae.chunk.js.LICENSE.txt"
+    "main.css": "/smartBrain-client/static/css/main.bb090dd4.chunk.css",
+    "main.js": "/smartBrain-client/static/js/main.21a6fe44.chunk.js",
+    "main.js.map": "/smartBrain-client/static/js/main.21a6fe44.chunk.js.map",
+    "runtime-main.js": "/smartBrain-client/static/js/runtime-main.4b498afb.js",
+    "runtime-main.js.map": "/smartBrain-client/static/js/runtime-main.4b498afb.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/smartBrain-client/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.1b18e6ae.chunk.js": "/smartBrain-client/static/js/2.1b18e6ae.chunk.js",
+    "static/js/2.1b18e6ae.chunk.js.map": "/smartBrain-client/static/js/2.1b18e6ae.chunk.js.map",
+    "index.html": "/smartBrain-client/index.html",
+    "precache-manifest.00d1487671b4a3261f7675d3f6a1b2a9.js": "/smartBrain-client/precache-manifest.00d1487671b4a3261f7675d3f6a1b2a9.js",
+    "service-worker.js": "/smartBrain-client/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/smartBrain-client/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.bb090dd4.chunk.css.map": "/smartBrain-client/static/css/main.bb090dd4.chunk.css.map",
+    "static/js/2.1b18e6ae.chunk.js.LICENSE.txt": "/smartBrain-client/static/js/2.1b18e6ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0421eba0.js",
+    "static/js/runtime-main.4b498afb.js",
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.1b18e6ae.chunk.js",
     "static/css/main.bb090dd4.chunk.css",
-    "static/js/main.2c84a0b9.chunk.js"
+    "static/js/main.21a6fe44.chunk.js"
   ]
 }
