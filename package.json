@@ -2,7 +2,7 @@
   "name": "facerecognitionapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lilman109.github.io/facerecognitionapp",
+  "homepage": "https://lilman109.github.io/smartBrain-client",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
